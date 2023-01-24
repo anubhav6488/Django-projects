@@ -1,0 +1,11 @@
+.text { 
+    border:solid;
+    color: rgb(10, 6, 6);
+    width: 400px;
+    height: 300px;
+}  
+.mar {
+    display: flex;
+    justify-content: space-between;
+    color: brown;
+}
